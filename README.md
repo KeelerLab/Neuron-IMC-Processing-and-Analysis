@@ -5,13 +5,9 @@ This repository hosts a comprehensive pipeline incorporating adapted code from r
 Key Features:
 
 Preprocessing: Streamlined preprocessing steps to enhance image quality, correct artifacts, and optimize data using MCD Viewer and IMC Denoise for subsequent analysis.
-
 Segmentation: Robust algorithms for accurate identification and segmentation of neuronal structures within IMC images using CellPose 2.0.
-
 Feature Extraction: Extract relevant features from neuronal regions, enabling quantitative analysis of molecular expression patterns.
-
 Data Integration: Integration of multi-channel IMC data to provide a holistic view of molecular profiles within neuronal populations.
-
 Visualization: Comprehensive visualization tools for exploring and interpreting processed IMC data, facilitating insightful analysis.
 
 Usage:
