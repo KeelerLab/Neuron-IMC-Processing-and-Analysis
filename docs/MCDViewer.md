@@ -80,7 +80,9 @@ Single-page or multipage 32-bit grayscale OME-TIFF (.ome.tiff)
 Troubleshooting and Support
 
 Refer to the troubleshooting section of the user guide or visit the official support page for assistance in resolving any technical issues encountered during data analysis. For technical support visit techsupport.fluidigm.com. 
+
 EMAIL: support.northamerica@fluidigm.com
+
 Stay informed about software updates and new feature releases by regularly checking the official MCD Viewer website or related communication channels.
 Windows 10 only: If MCD Viewer does not open, run the Windows Program
 Compatibility Troubleshooter to update settings for compatibility with newer versions of
