@@ -1,4 +1,6 @@
 Cellpose 2.0 Guide 
+
+
 Local Installation (< 2 minutes)
 System Requirements:
 ●	Linux, Windows, and Mac OS are supported.
