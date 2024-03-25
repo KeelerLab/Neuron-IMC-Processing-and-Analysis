@@ -1,6 +1,6 @@
 # Neuron-IMC-Processing-and-Analysis
 
-This repository hosts a comprehensive pipeline incorporating adapted code from referenced GitHub repositories  for the processing of Imaging Mass Cytometry (IMC) images specifically tailored for neuronal analysis. Imaging Mass Cytometry is a powerful technique that combines cytometry principles with high-resolution imaging to provide detailed spatial information about molecular expression in tissues. We have done a concise step by step guide on how to set up and run this pipeline. 
+This repository hosts a comprehensive pipeline incorporating adapted code from referenced GitHub repositories  for the processing of Imaging Mass Cytometry (IMC) images specifically tailored for neuronal analysis. Imaging Mass Cytometry is a powerful technique that combines cytometry principles with high-resolution imaging to provide detailed spatial information about molecular expression in tissues. We have done a concise step by step guide on how to set up and run this pipeline. We hereby acknowledge the contributions of all relevant works in our endeavor. As we embark on constructing a workflow tailored for the analysis of neurons via IMC, we are committed to openly sharing this resource with the broader community. We eagerly invite feedback and collaboration to refine and enhance our approach. 
 
 ### Key Features:
 
@@ -16,19 +16,19 @@ Visualization: Comprehensive visualization tools for exploring and interpreting 
 
 
 
-![Workflow](workflow.png)
+![Workflow](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/blob/92a082f9eaad2e1ecd7b2b0c06ba0691ba2d6435/WORKFLOW.png)
 
 ### Contents
 
 Preprocessing:
 
-   [MCD Viewer](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/blob/288c4f0afa9c82b1a5a9b698432c4678158c595d/Preprocessing/MCDViewer.md)
+   MCD Viewer [[Download](https://www.standardbio.com/products/software)]  [[Keeler lab Github](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/blob/288c4f0afa9c82b1a5a9b698432c4678158c595d/Preprocessing/MCDViewer.md)] - To visualize, review and export data.
    
-   [IMC Denoise](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/tree/288c4f0afa9c82b1a5a9b698432c4678158c595d/Preprocessing/IMC_DENOISE)
+   IMC Denoise [[Article](https://www.nature.com/articles/s41467-023-37123-6)] [[IMC Denoise official Github](https://github.com/PENGLU-WashU/IMC_Denoise)] [[Keeler lab Github](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/tree/288c4f0afa9c82b1a5a9b698432c4678158c595d/Preprocessing/IMC_DENOISE)] - For hot pixel and background noise removal.
 
-Analysis:
+Cell Segmentation:
 
-  [Cellpose2.0](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/blob/288c4f0afa9c82b1a5a9b698432c4678158c595d/Cell%20segmentation/Cellpose2.0.md)
+  Cellpose2.0 [[Download](https://cellpose.readthedocs.io/en/latest/installation.html)] [[Keeler Lab Github](https://github.com/KeelerLab/Neuron-IMC-Processing-and-Analysis/blob/288c4f0afa9c82b1a5a9b698432c4678158c595d/Cell%20segmentation/Cellpose2.0.md)] - Deep learning based segmentation tool.
 
 
 ### Usage:
