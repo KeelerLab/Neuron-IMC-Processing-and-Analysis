@@ -32,7 +32,7 @@ Cell Segmentation:
 
 Analysis:
 
-  Single-cell Mass cytometry analysis [Article](https://www.nature.com/articles/s41593-022-01181-8) [Zunder lab Github](https://github.com/zunderlab/Keeler-et-al.-DRG-Development-Manuscript) [Keeler lab Github]()  - Modified UMAP and Leiden Clustering for single-cell neural mass cytometry analysis.
+  Single-cell Mass cytometry analysis [[Article](https://www.nature.com/articles/s41593-022-01181-8)] [[Zunder lab Github](https://github.com/zunderlab/Keeler-et-al.-DRG-Development-Manuscript)] [[Keeler lab Github]()]  - Modified UMAP and Leiden Clustering for single-cell neural mass cytometry analysis.
 
 ### Usage:
 
