@@ -42,7 +42,7 @@ Customize parameters and configurations to suit your specific IMC dataset and an
 
 ### Documentation:
 
-Refer to the detailed documentation provided in the 'docs' directory for in-depth explanations, usage guidelines, and examples.
+Refer to the detailed documentation provided in the directories for in-depth explanations, usage guidelines, and examples.
 
 ### Contribution:
 
